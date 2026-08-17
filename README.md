@@ -4,7 +4,9 @@
 
 I build practical data products that turn complex information into clearer decisions. My background in banking and financial services shapes my focus on reliable analytics, explainable modelling, risk-aware design, and measurable business value.
 
-Based in Qatar · [LinkedIn](https://www.linkedin.com/in/navar-nasr/)
+Based in Qatar · Open to remote opportunities and relocation
+
+[Email](mailto:navar.nasr@gmail.com) · [LinkedIn](https://www.linkedin.com/in/navar-nasr/)
 
 ## Featured projects
 
@@ -34,6 +36,10 @@ An end-to-end machine-learning system for estimating aircraft-engine Remaining U
 - **Applications & delivery:** React, Streamlit, APIs, GitHub Actions, Cloudflare
 - **Workflow:** Git, GitHub, Jupyter, Google Colab
 
+## Opportunities
+
+I'm interested in **Data Scientist, Business Analyst, Data Analyst, Machine Learning Engineer, and Financial Data Analyst** roles. I'm open to remote work and relocation.
+
 ## Current focus
 
 Applied machine learning · Financial and risk analytics · Model monitoring · Decision-support dashboards · Explainable and responsible AI
@@ -42,4 +48,4 @@ Applied machine learning · Financial and risk analytics · Model monitoring · 
 
 **MSc Data Science · Banking & Financial Services**
 
-I'm open to conversations about data science, analytics, machine learning, and financial-technology opportunities.
+For professional enquiries: [navar.nasr@gmail.com](mailto:navar.nasr@gmail.com)
