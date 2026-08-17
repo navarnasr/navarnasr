@@ -1,44 +1,45 @@
 # Hi, I'm Navar Nasr
 
-I'm a data science professional with a background in banking and financial services, focused on using analytics, machine learning, and technology to solve practical business problems.
+**Data Science · Analytics · Machine Learning · Financial Services**
 
-My work sits at the intersection of **data, business, and decision-making** — from predictive modelling and financial analytics to data-driven tools and dashboards.
+I build practical data products that turn complex information into clearer decisions. My background in banking and financial services shapes my focus on reliable analytics, explainable modelling, risk-aware design, and measurable business value.
 
-## Featured Project
+Based in Qatar · [LinkedIn](https://www.linkedin.com/in/navar-nasr/)
+
+## Featured projects
+
+### [Aurum Watch — XAU/USD Market Intelligence](https://github.com/navarnasr/aurum-watch)
+
+An actively developed market-research platform combining live XAU/USD data, probabilistic short-horizon forecasting, model monitoring, and conditional scenario analysis.
+
+- Live dashboard with feed-health and stale-data safeguards
+- Transparent forecast evidence, confidence, and model-version tracking
+- Security, privacy, and model-governance documentation
+- **Explore:** [Live dashboard](https://live-dashboard.x5s868y9wv.chatgpt.site) · [Case study](https://github.com/navarnasr/aurum-watch)
 
 ### [NASA C-MAPSS — Predictive Maintenance](https://github.com/navarnasr/universal-predictive-maintenance)
 
-A machine-learning system for estimating aircraft-engine Remaining Useful Life using NASA's C-MAPSS turbofan degradation dataset.
+An end-to-end machine-learning system for estimating aircraft-engine Remaining Useful Life using NASA's C-MAPSS turbofan degradation dataset.
 
-- End-to-end data preparation and feature engineering
-- Regression modelling and model evaluation
-- Interactive dashboard for predictions and analysis
-- Built with Python, Pandas, NumPy, Scikit-learn, XGBoost, and Streamlit
+- Reproducible data preparation and feature engineering
+- Regression modelling, evaluation, and documented limitations
+- Interactive prediction workflow
+- Automated tests and continuous integration
 
-## Current Work
+## Technical toolkit
 
-- **Financial Market Analytics** — developing an XAU/USD research and forecasting system combining market data, technical indicators, model evaluation, and live dashboards.
-- **Business Analytics** — applying data analysis and visualization to operational and commercial decision-making.
-- **Predictive Modelling** — building reliable, explainable models for real-world decision systems.
+- **Languages & data:** Python, SQL, Pandas, NumPy, TypeScript
+- **Machine learning:** Scikit-learn, XGBoost, regression, feature engineering, model evaluation
+- **Analytics & visualization:** Power BI, Tableau, Matplotlib, exploratory data analysis
+- **Applications & delivery:** React, Streamlit, APIs, GitHub Actions, Cloudflare
+- **Workflow:** Git, GitHub, Jupyter, Google Colab
 
-## Technical Toolkit
+## Current focus
 
-**Languages & Data**  
-Python · SQL · Pandas · NumPy
+Applied machine learning · Financial and risk analytics · Model monitoring · Decision-support dashboards · Explainable and responsible AI
 
-**Machine Learning**  
-Scikit-learn · XGBoost · Regression · Feature Engineering · Model Evaluation
+## Background
 
-**Analytics & Visualization**  
-Power BI · Tableau · Matplotlib · Exploratory Data Analysis
+**MSc Data Science · Banking & Financial Services**
 
-**Tools**  
-Git · GitHub · Jupyter · Google Colab · Streamlit
-
-## Current Focus
-
-Applied machine learning · Data analytics and visualization · Financial and risk analytics · Predictive modelling · Data-driven decision systems
-
----
-
-**MSc Data Science | Banking & Financial Services Background**
+I'm open to conversations about data science, analytics, machine learning, and financial-technology opportunities.
